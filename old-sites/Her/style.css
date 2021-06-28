@@ -1,0 +1,424 @@
+﻿body{
+		background: url(image/еда.jpg); 
+		background-attachment: fixed; 
+		background-repeat: repeat-y; 
+		background-size: 100%;
+	}
+
+#test{
+	float: right;
+	margin-top: 70px;
+}
+
+#delet_price{
+	text-align: center;
+	position: fixed;
+	z-index: 5;
+	border-radius:5px;
+	opacity:0.95;
+	background: #E5E5E6;
+	width: 600px;
+	height: auto;
+	border: 1px solid black;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -300px;
+	padding: 30px;
+}
+
+#add_price{
+	text-align: center;
+	position: fixed;
+	z-index: 5;
+	border-radius:5px;
+	opacity:0.95;
+	background: #E5E5E6;
+	width: 600px;
+	height: auto;
+	border: 1px solid black;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -300px;
+	padding: 30px;
+}
+
+#redact_price{
+	text-align: center;
+	position: fixed;
+	z-index: 5;
+	border-radius:5px;
+	opacity:0.95;
+	background: #E5E5E6;
+	width: 600px;
+	height: auto;
+	border: 1px solid black;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -300px;
+	padding: 30px;
+}
+
+.GOD{
+	position: fixed;
+	bottom: 80px;
+	left: 13%;
+	color: orange; 
+	font-size: 20px;
+	background: #363636;
+	padding: 15px 17px 15px 17px;
+	border-radius: 7px;
+	letter-spacing: 1.2px;
+}
+.GOD:hover{
+	 color: #fff; background: #363636;cursor: pointer;
+	}
+
+/*ГЛАВНАЯ СТРАНИЦА*/
+#redact_password{
+	position: fixed;
+	text-align:center;
+	z-index: 5;
+	border-radius:12px;
+	opacity:1;
+	background: #FFF5EE;
+	width: 300px;
+	height: auto;
+	border: 3px solid black;
+	top: 50%;
+	left: 50%;
+	margin-top: -40px;
+	margin-left: -180px;
+	padding: 15px;
+}
+
+strong 
+{
+	color:black;
+	margin-top:20px;
+	font: 16px ARIAL BLACK;
+	font-weight: bold;
+}
+button 
+{
+color:black;
+	margin-top:10px;
+	font: 20px ARIAL BLACK;
+	font-weight: bold;	
+}
+
+/*отступ от верха для меню*/
+*
+{
+margin:0px ;  
+padding:0px;
+}
+/*вертикальное меню*/
+.menu li
+{
+float:left; 
+list-style: none; /*убираем точки*/
+margin:10px 25px ; /*отступы от слов*/
+} 
+/*цвет блока меню, тени и тд*/
+.blok-menu
+{
+overflow: hidden;
+background: #FF8C00;
+box-shadow: 0px 13px 17px -6px #000000;
+}
+/*посередине меню*/
+.menu
+{
+margin:0 auto;
+display:table;
+}
+/*обработка текста меню*/
+.menu li a
+{
+font: 18px Verdana, Arial, Helvetica, sans-serif;
+color:#fff;
+text-decoration: none;
+}
+/*подчеркивание меню*/
+.menu li a:hover
+{
+font: 18px Verdana, Arial, Helvetica, sans-serif;
+color:#000000;
+border-bottom:1px dotted #ccc;
+}
+
+.logo
+{
+text-align: center;
+width: 950px;
+margin: 20px auto;
+}
+.logo1
+{
+text-align: center;
+margin:0 auto;
+margin-top:20px;
+margin-bottom:15px;
+}
+.avtor a
+{
+font: 16px Verdana, Arial, Helvetica, sans-serif;
+color:black;
+margin-left:25px;
+text-decoration: underline;
+cursor:pointer;
+}
+.avtor a:hover
+{
+text-decoration: #000000;
+border:1px;
+}
+/*основной блок главной страницы*/
+.content
+{
+width:850px;
+background: #FFFAFA;
+margin:0 auto;
+padding:50px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+}
+ /*заголовок блока*/
+.content h2
+{
+font: 41px SEGOE PRINT;
+font-weight: bold;
+color:#FF0000;
+text-shadow:6px 8px 10px #F4A460;
+text-align:center;
+}
+ /*оформление текста*/
+.content p
+{
+font: 25px Monotype Corsiva;
+color:#444;
+text-indent:50px; /*красная строка*/
+}
+/*подвал*/
+.footer
+{
+width:100%;
+text-align:center;
+margin-top:20px;
+}
+/*оформление текста*/
+.footer p, .footer a
+{
+font: 18px Verdana, Arial, Helvetica, sans-serif;
+color:#800000;
+margin-bottom: 30px;
+}
+/*оформление полоски*/
+.footer a
+{
+text-decoration: none;
+border-bottom:1px dotted #000000; 
+}
+/*полосочка исчезн B*/
+.footer a:hover
+{
+text-decoration: #000000;
+border:1px;
+}
+
+
+/*СТРАНИЦА МЕНЮ*/
+
+/*основной блок страницы МЕНЮ*/
+.content1
+{
+	
+width:850px;
+background: url(image/фон2.jpg); 
+background-attachment: fixed; 
+background-repeat: repeat-y; 
+background-size: 100%;
+margin:0 auto;
+padding:20px;
+
+}
+/*вертикальное меню*/
+.menu2 li
+{
+float:left;
+list-style: none;
+margin:10px 25px  ;
+
+} 
+/*отступ от верха*/
+.menu2
+{
+margin:0 auto;
+display:table;
+}
+/*оформление текста меню МЕНЮ*/
+.menu2 li a
+{
+font: 20px SEGOE PRINT, sans-serif;
+color:#800000;
+font-weight: bold;
+text-decoration: none;
+border-bottom:1px dotted #000000;
+}
+/*при наведении на текст*/
+.menu2 li a:hover
+{
+font: 20px TEMPUS SANS ITC, sans-serif;
+color:#8B0000;
+border-bottom:1px dotted #8B0000;
+}
+/*оформление текста блока меню*/
+ .content1 h2
+{
+margin-top:75px;
+font: 38px SEGOE PRINT;
+font-weight: bold;
+color:#006400;
+text-align:center;
+}
+/*рамка фото*/
+ .sign 
+ {
+float: left; /* Выравнивание по правому краю */
+border-radius: 10px; /* Параметры рамки */
+padding: 10px; /* Поля внутри блока */
+margin: 20px 15px 10px 40px; /* Отступы вокруг */
+background: #FFFFFF; /* Цвет фона */ 
+width: 200px;
+height:px;
+}
+/*подпись к картинке*/
+.sign figcaption 
+{
+margin: 5px 5px; /* Отступы вокруг абзаца */
+font: 15px GEORGIA;
+color:#000000;
+}
+/*оформление текста подписи*/
+.sign figcaption p 
+{
+margin: 5px 5px; /* Отступы вокруг абзаца */
+font: 15px GEORGIA;
+color:#008000;
+font-weight: bold;
+text-align:center;
+}
+ .sign figcaption h1
+ {
+font: 20px SEGOE PRINT, sans-serif;
+color:#800000;
+font-weight: bold; 
+text-align:center;
+ }
+/*отдельние блоков блюд*/
+.cartinki{
+width: 850px;
+}
+/*кнопка возврата*/
+.topbutton 
+{
+width:60px;
+border:2px solid #DC143C;
+background:#FFFFFF;
+text-align:center;
+padding:10px;
+position:fixed;
+bottom:5px;
+right:140px;
+cursor:pointer;
+color:#000000;
+font-family:Arial Black;
+font-size:12px;
+border-radius: 5px;
+text-decoration: none;
+}
+
+/*адресация*/
+
+.content3 p
+{
+padding-top: 10px;
+padding-bottom: 20px;
+font: 21px TREBUCHET MS;
+color:#00008B;
+text-align:center;
+}
+
+
+/*АКЦИИ*/
+
+.content2
+{
+	
+width:850px;
+height:500px;
+background: url(image/фон3.jpg); 
+background-attachment: fixed; 
+background-repeat: repeat-y; 
+background-size: 100%;
+margin:0 auto;
+padding:20px;
+box-shadow: 0 1px 4px rgba(0, 0, 0, .3), -23px 0 20px -23px rgba(0, 0, 0, .8), 23px 0 20px -23px rgba(0, 0, 0, .8), 0 0 40px rgba(0, 0, 0, .1) inset;
+}
+.content2 h2
+{
+font: 25px TREBUCHET MS;
+font-weight: bold;
+color:black;
+text-align:center;
+margin-bottom:7px;
+}
+.content2 h1
+{
+margin-top:25px;
+margin-left:30px;
+font: 30px ARIAL BLACK;
+font-weight: bold;
+color:#FF0000;
+}
+.sign2 
+ {
+border-radius: 10px; /* Параметры рамки */
+padding: 10px; /* Поля внутри блока */
+margin: 15px 10px 7px 10px; /* Отступы вокруг */
+background: #FF0000; /* Цвет фона */ 
+width: 220px;
+height:180px;
+ }
+.content2 p
+{
+font: 17px TREBUCHET MS;
+font-weight: bold;
+color:#333;
+}
+.content2 h3
+{
+font: 25px Monotype Corsiva;
+font-weight: bold;
+color:#333;
+margin-top:5px;
+}
+.cartin
+{
+	margin-bottom:1px;
+width: 800px;
+height: 210px;
+}
+.content2 h4
+{
+margin: 70px 5px; /* Отступы вокруг абзаца */
+font: 15px GEORGIA;
+color:#008000;
+font-weight: bold;
+}
+
+
+
+

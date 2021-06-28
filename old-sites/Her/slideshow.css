@@ -1,0 +1,102 @@
+/*размер слайдера*/
+#slideshow{
+	border-radius: 5%;
+	width: 90%;
+	height: 320px;
+	margin-bottom:30px;
+}
+#slideshow figure img{
+	max-height: 320px; 
+}
+
+/*кнопки слайдера*/
+#slideshow ul a{
+	width: 15px;
+	height: 15px;
+}
+/*
+#slideshow,#slideshow figure{
+	background: #F4A460; 
+}
+#slideshow figure figcaption{
+
+}
+*/
+/* цвета кнопочек */
+#slideshow ul a{
+  border: 5px solid Maroon; 
+
+	background: Tomato; 
+}
+#slideshow ul a.slide{
+	background: White; 
+}
+#slideshow ul a:hover{
+	background: MistyRose; 
+}
+
+/*  */
+#slideshow figure{ 
+
+  opacity: 0; 
+
+}
+#slideshow figure.show{ 
+
+  opacity: 1;
+
+}
+
+
+#slideshow{
+	overflow: hidden;
+	position: relative;
+}
+#slideshow figure{
+	margin: 0;
+	top:0;
+	bottom: 0;
+	pointer-events: none;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+#slideshow figure.show{
+	pointer-events: initial;
+}
+#slideshow figure img{
+	max-width: 85%;
+	display: block;
+	margin: auto;
+}
+#slideshow figure figcaption{
+	padding: 10px;
+	bottom: 50px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-webkit-backdrop-filter: blur(10px);
+}
+#slideshow figure figcaption, #slideshow ul, #slideshow figure{
+	position: absolute;
+	right: 0;
+	left: 0;
+	text-align: center;
+}
+/* навигация*/
+#slideshow ul{
+	z-index: 2;
+	margin: 10px;
+	bottom: 0;
+	display: -webkit-flex;
+	display: flex;
+	justify-content: center;
+}
+/*круглые кнопки*/
+#slideshow ul a{
+	display: block;
+	margin: 5px 3px;
+	border-radius: 50%;
+	-webkit-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+}

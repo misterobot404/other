@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bce40a29-5990-4001-84dd-d5d93d9d48f6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/My$My.coverage" NAME="My Coverage Results" MODIFIED="1514459227086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/GOD.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="966">
+              <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/Main.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Registration/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/defolt/defolthead.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/Monitors.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main/stile.css" />
+        <option value="$PROJECT_DIR$/Main/GOD.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="PhpStorm 2017.3.2" id="f106878d-a4df-419a-8684-81ce4c9548d2" name="PhpStorm 2017.3.2" port="63342" />
+      <server host="my" id="99cdcd39-50ad-41bd-9fc2-9c4e705a39c8" name="my" port="443" />
+    </servers>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="432" />
+    <option name="y" value="258" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="My" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.My">
+    <configuration name="My" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GOD.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Main/GOD.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.GOD.php" />
+      <item itemvalue="PHPUnit.My" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.GOD.php" />
+        <item itemvalue="PHPUnit.My" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bce40a29-5990-4001-84dd-d5d93d9d48f6" name="Default" comment="" />
+      <created>1514374547479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514374547479</updated>
+      <workItem from="1514374548660" duration="280000" />
+      <workItem from="1514374866047" duration="141000" />
+      <workItem from="1514375020782" duration="2394000" />
+      <workItem from="1514457939977" duration="263000" />
+      <workItem from="1514459058821" duration="411000" />
+      <workItem from="1514463489066" duration="917000" />
+      <workItem from="1514610284197" duration="407000" />
+      <workItem from="1514688008991" duration="580000" />
+      <workItem from="1516442927461" duration="265000" />
+      <workItem from="1557153247926" duration="114000" />
+      <workItem from="1558074365557" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="My - 2017.12.28 at 21h 06m 57s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 21h 07m 04s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 21h 07m 06s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 21h 07m 07s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 21h 07m 16s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 21h 07m 52s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 22h 18m 51s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 22h 19m 25s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 22h 21m 22s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="My - 2017.12.28 at 22h 25m 07s.xml">
+      <configuration name="My" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5871000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.14285715" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49626866" weight="0.32708332" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.49710146" weight="0.22685656" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="6" weight="0.32776934" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.49413645" weight="0.40833333" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50586355" side_tool="true" weight="0.57917887" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3296875" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49626866" weight="0.32708332" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49710146" weight="0.22685656" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="7" weight="0.32776934" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49413645" weight="0.40833333" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50586355" side_tool="true" weight="0.57917887" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3296875" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Main/GOD.php</url>
+          <line>42</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Main/GOD.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Main/GOD.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../modules/php/PHP-7.0-x64/php.ini" />
+    <entry file="file://$PROJECT_DIR$/Main/stile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="334" column="9" selection-start-line="334" selection-start-column="9" selection-end-line="334" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c/console.sql" />
+    <entry file="das://view:/f115b6a2/e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c/information_schema.TABLES" />
+    <entry file="das://view:/f115b6a2/e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c/information_schema.COLUMNS" />
+    <entry file="uml://DATABASE/e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c</OriginalElement>
+          <nodes>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.TABLES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.OPTIMIZER_TRACE</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.STATISTICS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.SESSION_VARIABLES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_TRX</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_BUFFER_PAGE</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_DATAFILES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_LOCK_WAITS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.PROFILING</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_VIRTUAL</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMP_PER_INDEX_RESET</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMP_RESET</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_BUFFER_POOL_STATS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_LOCKS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.ENGINES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.ROUTINES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_BEING_DELETED</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.SCHEMATA</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.USER_PRIVILEGES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_COLUMNS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_METRICS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.COLLATIONS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_DEFAULT_STOPWORD</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.VIEWS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.EVENTS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_INDEX_TABLE</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMPMEM</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.TABLE_CONSTRAINTS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_FOREIGN</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_TEMP_TABLE_INFO</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.KEY_COLUMN_USAGE</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_TABLES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.FILES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.REFERENTIAL_CONSTRAINTS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_TABLESTATS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.COLUMNS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.GLOBAL_VARIABLES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.PLUGINS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.TABLESPACES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.TABLE_PRIVILEGES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_INDEX_CACHE</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_TABLESPACES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_FOREIGN_COLS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_CONFIG</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.COLUMN_PRIVILEGES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.PARTITIONS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMPMEM_RESET</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.PARAMETERS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_BUFFER_PAGE_LRU</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.PROCESSLIST</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.SESSION_STATUS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_INDEXES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.COLLATION_CHARACTER_SET_APPLICABILITY</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.GLOBAL_STATUS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_SYS_FIELDS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.SCHEMA_PRIVILEGES</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.CHARACTER_SETS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMP</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.TRIGGERS</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_CMP_PER_INDEX</node>
+            <node x="" y="">e5c5a0d1-1af2-4a4b-a587-a906d20e2b6c.VIEW:information_schema.INNODB_FT_DELETED</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2167858487015431" x="1252.0" y="1299.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/GOD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Registration/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/defolt/defolthead.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Monitors.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
