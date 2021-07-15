@@ -1,0 +1,121 @@
+@font-face {
+    font-family: Inter-ExtraBold; /* Гарнитура шрифта */
+    src: url(assets/fonts/Inter-ExtraBold.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Inter-Medium; /* Гарнитура шрифта */
+    src: url(assets/fonts/Inter-Medium.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Inter-Regular; /* Гарнитура шрифта */
+    src: url(assets/fonts/Inter-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Inter-Light; /* Гарнитура шрифта */
+    src: url(assets/fonts/Inter-Light.ttf); /* Путь к файлу со шрифтом */
+}
+
+/* После адаптации интерфейса под более низкие разрешения, изменить min values */
+body {
+    background: #ECECF9;
+    min-width: 1280px;
+    min-height: 720px;
+}
+
+h1, h2, h3, h4 {
+    font-family: Inter-Medium, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 48px;
+}
+
+h2 {
+    font-size: 22px;
+    line-height: 27px;
+}
+
+h3 {
+    font-size: 18px;
+    line-height: 22px;
+}
+
+h4 {
+    font-size: 16px;
+    line-height: 19px;
+}
+
+a {
+    text-decoration: none;
+}
+
+table {
+    font-family: Inter-Regular, sans-serif;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+/* Nav */
+.side-nav {
+    padding: 60px 16px 0;
+    min-height: 100vh;
+    height: 100%;
+    position: fixed;
+    width: inherit;
+}
+.navbar-active-link {
+    color: #1976D3;
+}
+.navbar-link {
+    color: #C7C7CF;
+}
+.navbar-link:hover {
+    color: #1976D3;
+}
+
+.color-blue {
+    color: #1976D3;
+}
+.btn-success-green {
+    background: #41C284;
+    border-radius: 10px;
+    border-color: #41a474;
+}
+
+.h4-styles {
+    font-family: Inter-Medium, sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.p-14-medium {
+    font-family: Inter-Medium, sans-serif;
+    font-size: 14px;
+}
+
+.p-14-regular {
+    font-family: Inter-Regular, sans-serif;
+    font-size: 14px;
+}
+
+.p-14-light {
+    font-family: Inter-Light, sans-serif;
+    font-size: 14px;
+}
+
+.p-12-regular {
+    font-family: Inter-Regular, sans-serif;
+    font-size: 12px;
+}
+
+.cursor-pointer {
+    cursor:pointer
+}
+
+.border-r-10 {
+    border-radius: 10px;
+}

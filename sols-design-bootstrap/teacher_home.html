@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>SOLS - Кабинет преподавателя</title>
+    <style>
+        .card-result {
+            padding: 45px 14px;
+            border: 2px solid #C7C7CF;
+            border-radius: 5px;
+            cursor: pointer;
+            text-wrap: normal;
+            text-align: center;
+        }
+
+        .help-title {
+            margin-top: 160px;
+        }
+
+        .result-title {
+            margin-top: 76px;
+        }
+
+        /* Изменение разметки под более низкое разрешение */
+        @media screen and (max-width: 1280px) {
+            .help-title {
+                margin-top: 50px;
+            }
+
+            .result-title {
+                margin-top: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row" style="min-height: 100vh">
+        <!-- Navigation -->
+        <div class="col-xxl-2 col-3 p-0">
+            <div class="side-nav border-0 bg-white" aria-labelledby="offcanvasLabel">
+                <div class="text-center color-blue">
+                    <h1 id="offcanvasLabel" class="mb-0">SOLS</h1>
+                    <div class="p-14-regular">для преподавателей</div>
+                </div>
+                <div class="offcanvas-body pt-5">
+                    <!-- Links -->
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link d-flex navbar-active-link" href="/teacher_home.html">
+                                <i style="font-size: 2.5rem" class="bi bi-house"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">Домашняя</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-2">
+                            <a class="nav-link d-flex navbar-link" href="/teacher_create_test.html">
+                                <i style="font-size: 2.5rem" class="bi bi-brush"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">Создать</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-2">
+                            <a class="nav-link d-flex navbar-link" href="/teacher_constr_question.html">
+                                <i style="font-size: 2.4rem" class="bi bi-columns-gap"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">Конструктор</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-2">
+                            <a class="nav-link d-flex navbar-link" href="/teacher_base_questions.html">
+                                <i style="font-size: 2.5rem" class="bi bi-folder"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">База вопросов</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-2">
+                            <a class="nav-link d-flex navbar-link" href="/teacher_base_tests.html">
+                                <i style="font-size: 2.5rem" class="bi bi-clipboard-data"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">Список тестов</h2>
+                            </a>
+                        </li>
+                        <li class="nav-item mt-2">
+                            <a class="nav-link d-flex navbar-link" href="/">
+                                <i style="font-size: 2.5rem" class="bi bi-box-arrow-left"></i>
+                                <h2 class="my-auto pt-1" style="margin-left: 14px">Выход</h2>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Content -->
+        <div class="col d-none d-xxl-block"></div>
+        <div class="d-flex flex-column col-xxl-8 col-9 px-xxl-2 px-4">
+            <!-- Help Header -->
+            <div class="d-flex justify-content-between mx-2 help-title">
+                <h2 class="color-blue my-auto">Как пользоваться сервисом?</h2>
+                <button class="btn btn-outline-primary color-blue border-r-10" style="border: 1px solid #1976D3; height: 50px">
+                    <span class="h4-styles">Показать всё</span>
+                </button>
+            </div>
+            <!-- Help Content -->
+            <div class="d-flex justify-content-center flex-wrap border-r-10" style="margin-top: 24px; padding: 24px 100px; background: #FEFEFF;">
+                <img src="assets/helps/help1.png" alt="help1" class="m-2 cursor-pointer">
+                <img src="assets/helps/help2.png" alt="help2" class="m-2 cursor-pointer">
+                <img src="assets/helps/help3.png" alt="help3" class="m-2 cursor-pointer">
+                <img src="assets/helps/help4.png" alt="help4" class="m-2 cursor-pointer">
+            </div>
+            <!-- Result Header -->
+            <div class="d-flex justify-content-between mx-2 result-title">
+                <h2 class="color-blue my-auto">Результаты</h2>
+                <button class="btn btn-outline-primary color-blue border-r-10" style="border: 1px solid #1976D3; height: 50px">
+                    <span class="h4-styles">Показать всё</span>
+                </button>
+            </div>
+            <!-- Result Content -->
+            <div class="d-flex justify-content-center flex-wrap border-r-10" style="margin-top: 24px; padding: 24px 100px; background: #FEFEFF;">
+                <div class="card-result m-2" style="flex-basis: 244px">
+                    <h2 class="color-blue mb-0">МА_8ИС</h2>
+                </div>
+                <div class="card-result m-2" style="flex-basis: 244px">
+                    <h2 class="color-blue mb-0">ЛААГ_8ВТ</h2>
+                </div>
+                <div class="card-result m-2" style="flex-basis: 244px">
+                    <h2 class="color-blue mb-0">ТВ_7ИБ</h2>
+                </div>
+                <div class="card-result m-2" style="flex-basis: 244px">
+                    <h2 class="color-blue mb-0">ЛП_8ИС</h2>
+                </div>
+            </div>
+            <!-- Footer -->
+            <div class="d-flex justify-content-center p-14-medium py-5 mt-auto">
+                <a href="/about.html" class="mx-5 text-dark">
+                    О сайте
+                </a>
+                <a href="/support.html" class="mx-5 text-dark">
+                    Служба поддержки
+                </a>
+            </div>
+        </div>
+        <div class="col d-none d-xxl-block"></div>
+    </div>
+</div>
+<!-- Bootstrap Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+</body>
+</html>
